@@ -1,0 +1,50 @@
+31.03.2021 19:16:09.058 [main] DEBUG - The recursive binary search is about to start
+31.03.2021 19:16:09.061 [main] DEBUG - Nesting level - 0
+31.03.2021 19:16:09.063 [main] DEBUG - Lower and upper bounds - 0 - 8
+31.03.2021 19:16:09.064 [main] DEBUG - Nesting level - 1
+31.03.2021 19:16:09.064 [main] DEBUG - Lower and upper bounds - 5 - 8
+31.03.2021 19:16:09.064 [main] DEBUG - Nesting level - 2
+31.03.2021 19:16:09.064 [main] DEBUG - Lower and upper bounds - 5 - 5
+31.03.2021 19:16:09.064 [main] DEBUG - The recursive binary search ended
+31.03.2021 19:16:09.064 [main] DEBUG - Key 5 has a position 5 in this array
+31.03.2021 19:16:09.064 [main] DEBUG - ==============================================================================
+31.03.2021 19:16:32.600 [main] DEBUG - The recursive binary search is about to start
+31.03.2021 19:16:32.600 [main] DEBUG - Nesting level - 0
+31.03.2021 19:16:32.600 [main] DEBUG - Lower and upper bounds - 0 - 8
+31.03.2021 19:16:32.600 [main] DEBUG - Nesting level - 1
+31.03.2021 19:16:32.600 [main] DEBUG - Lower and upper bounds - 5 - 8
+31.03.2021 19:16:32.601 [main] DEBUG - Nesting level - 2
+31.03.2021 19:16:32.601 [main] DEBUG - Lower and upper bounds - 7 - 8
+31.03.2021 19:16:32.601 [main] DEBUG - Nesting level - 3
+31.03.2021 19:16:32.601 [main] DEBUG - Lower and upper bounds - 8 - 8
+31.03.2021 19:16:32.601 [main] DEBUG - The recursive binary search ended
+31.03.2021 19:16:32.601 [main] DEBUG - Key 8 has a position 8 in this array
+31.03.2021 19:16:32.601 [main] DEBUG - ==============================================================================
+31.03.2021 19:16:47.304 [main] DEBUG - The recursive binary search is about to start
+31.03.2021 19:16:47.304 [main] DEBUG - Nesting level - 0
+31.03.2021 19:16:47.304 [main] DEBUG - Lower and upper bounds - 0 - 4
+31.03.2021 19:16:47.304 [main] DEBUG - Nesting level - 1
+31.03.2021 19:16:47.305 [main] DEBUG - Lower and upper bounds - 0 - 1
+31.03.2021 19:16:47.305 [main] DEBUG - The recursive binary search ended
+31.03.2021 19:16:47.305 [main] DEBUG - Key 0 has a position 0 in this array
+31.03.2021 19:16:47.305 [main] DEBUG - ==============================================================================
+31.03.2021 19:19:35.807 [main] DEBUG - The recursive binary search is about to start
+31.03.2021 19:19:35.810 [main] DEBUG - Nesting level - 0
+31.03.2021 19:19:35.812 [main] DEBUG - Lower and upper bounds - 0 - 11
+31.03.2021 19:19:35.812 [main] DEBUG - Nesting level - 1
+31.03.2021 19:19:35.812 [main] DEBUG - Lower and upper bounds - 6 - 11
+31.03.2021 19:19:35.812 [main] DEBUG - Nesting level - 2
+31.03.2021 19:19:35.812 [main] DEBUG - Lower and upper bounds - 9 - 11
+31.03.2021 19:19:35.812 [main] DEBUG - Nesting level - 3
+31.03.2021 19:19:35.813 [main] DEBUG - Lower and upper bounds - 11 - 11
+31.03.2021 19:19:35.813 [main] DEBUG - The recursive binary search ended
+31.03.2021 19:19:35.813 [main] DEBUG - Key 11 has a position 11 in this array
+31.03.2021 19:19:35.813 [main] DEBUG - ==============================================================================
+31.03.2021 19:19:47.897 [main] DEBUG - The recursive binary search is about to start
+31.03.2021 19:19:47.897 [main] DEBUG - Nesting level - 0
+31.03.2021 19:19:47.897 [main] DEBUG - Lower and upper bounds - 0 - 3
+31.03.2021 19:19:47.897 [main] DEBUG - Nesting level - 1
+31.03.2021 19:19:47.898 [main] DEBUG - Lower and upper bounds - 0 - 0
+31.03.2021 19:19:47.898 [main] DEBUG - The recursive binary search ended
+31.03.2021 19:19:47.898 [main] DEBUG - Key 0 has a position 0 in this array
+31.03.2021 19:19:47.898 [main] DEBUG - ==============================================================================
